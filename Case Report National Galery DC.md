@@ -31,17 +31,17 @@ On January 21, 2016, Digitech Inc. was called in to assist the National Gallery,
 
 As described fully in the report, Digitech, Inc. made the following findings. 
 
-- The confiscated iPhone holds evidence for two conspiracies against NGDC. These conspiracies occur simultaneously, but not all the identified characters are related to both.
+1. The confiscated iPhone holds evidence for two conspiracies against NGDC. These conspiracies occur simultaneously, but not all the identified characters are related to both.
 
-- The evidence reveals a plot related to the theft of valuable stamps from the NGDC.
+2. The evidence reveals a plot related to the theft of valuable stamps from the NGDC.
 
-- The evidence holds enough information to identify five characters, their involvement or disengagement in each conspiracy, their relationship, and the motivations behind their actions.
+3. The evidence holds enough information to identify five characters, their involvement or disengagement in each conspiracy, their relationship, and the motivations behind their actions.
 
-- Two individuals were identified as the robbery's conceivers. Tracy (alias coral), and Pat (alias Perry).
+4. Two individuals were identified as the robbery's conceivers. Tracy (alias coral), and Pat (alias Perry).
 
-- Pat blackmailed a third person called King to get involved into the heist conspiracy. Tracy was aware of it.
+5. Pat blackmailed a third person called King to get involved into the heist conspiracy. Tracy was aware of it.
 
-- Tracy leaked sensitive information to an individual named Carry related to the NGDC's security rotation. Also, Tracy helped Carry sneak a tablet into the Gallery. The evidence indicates that Tracy was compensated, but unaware of Carry's intentions.
+6. Tracy leaked sensitive information to an individual named Carry related to the NGDC's security rotation. Also, Tracy helped Carry sneak a tablet into the Gallery. The evidence indicates that Tracy was compensated, but unaware of Carry's intentions.
 
 
 ---
