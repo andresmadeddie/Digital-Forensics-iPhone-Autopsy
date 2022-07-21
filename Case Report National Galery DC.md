@@ -273,5 +273,3 @@ The other two characters are not involved:
 - Tracy leaks sensitive security information of the museum
 
 - Pat or King are unrelated to this plot.
-
-
