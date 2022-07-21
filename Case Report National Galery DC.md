@@ -248,24 +248,25 @@ The other two characters are not involved:
 
 ## **Stamp Heist conclusions**
 
+- Tracy, Pat, and King are involved in the conspiracy of the stamps’ theft.
+
 - Tracy and Pat are the conceivers of this heist. They have financial Motivations.
-Tracy, Pat, and King are involved in the conspiracy of the stamps’ theft.
 
-- King's motivations in the heist contain the pressure from Pat's blackmail.
+- Pat's blackmail is one of King's motivations to get involved in the heist.
 
-- Tracy was aware of the king being blackmailed.
+- Tracy knew that the king was being blackmailed.
 
-- Carry used the alias of Coral.
+- Tracy used the alias of Coral.
 
 - Pat used the alias of Perry.
 
-- Cary is unrelated to this plot.
+- Carry is unrelated to this plot.
 
 
 
 ## **National Gallery defacing conclusions**
 
-- Karry groomed and compensated Tracy to gain resources related to the defacement conspiracy against the Gallery.
+- Carry groomed and compensated Tracy to gain resources related to the defacement conspiracy against the Gallery.
 
 - Tracy is unaware of Carry's intentions.
 
