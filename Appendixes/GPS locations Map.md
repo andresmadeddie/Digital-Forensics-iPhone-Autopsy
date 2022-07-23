@@ -4,7 +4,7 @@ Cell and Wifi GPS
 
 ![Regional View](/Resources/Maps/1.PNG)
 
-![City View](/Resources/Maps/generalVIew.PNG)
+![City View](/Resources/Maps/generalView.PNG)
 
 Photos GPS metadata
 
