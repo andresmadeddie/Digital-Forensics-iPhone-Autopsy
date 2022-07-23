@@ -1,7 +1,7 @@
 # Digital-Forencics-Case-Report-National-Gallery-DC
 
-An Iphone forencics report related to a conspitacy against the National Gallery DC
 
+An Iphone forencics report related to a conspitacy against the National Gallery DC
 
 | | |
 | --- | --- |
