@@ -48,14 +48,16 @@ As described fully in the report, Digitech, Inc. made the following findings.
 
 ## 2. Equipment and Tools
 The tools used for this investigation were:
-- Kali Linux SO.
-- Kali Linux File Manager: to explore files.
-- Kali Linux Terminal.
+- Autopsy 4.19.3: Main tool 
+- DB Browser  / Sqlitebrowser: to view databases.
+- SQLite
+- Google My Map
+- Q Terminal
 - Fcrackzip: To crack a zip file with password.
 - Commands GREP, AWK, CUT, and CAT: to clean files for analysis.
 - Nano: text editor to analyze files.
-- Sqlitebrowser: to view databases.
-- Autopsy: to label and categorize the raw data and analyze it. 
+- Kali Linux SO
+- Kali Linux File Manager: to explore files.
 
 ---
 
