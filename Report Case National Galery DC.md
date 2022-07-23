@@ -63,17 +63,17 @@ The tools used for this investigation were:
 
 | Name | Findings | Location in iPhone image file |
 | ---- | ---- | ---- |
-Model | N82AP Iphone1, 2 | /img_tracy_phone-2012-07-15-final.EO1/vol_vol4//$CavedFiles/0116352.txt <br /> /img_tracy_phone-2012-07-15-final.EO1/vol_vol5/mobile/library/Logs/AppleSupport/general.log |
+Model | Iphone1, 2 | /img_tracy_phone-2012-07-15-final.EO1/vol_vol4//$CavedFiles/0116352.txt <br /> /img_tracy_phone-2012-07-15-final.EO1/vol_vol5/mobile/library/Logs/AppleSupport/general.log |
 | Host Name | Tracy Sumtwelve | /img_tracy_phone-2012-07-15-final.EO1/vol_vol5/logs/lockdownd.log |
-| OS Version | iPhone OS 4.2.1 (08C148) or iPhone OS 3.1.2 (7D11) | /img_tracy_phone-2012-07-15-final.EO1/vol_vol5/logs/AppleSupport/general.log <br /> /img_tracy_phone-2012-07-15-final.EO1/vol_vol5/$CarvedFiles/f0601296.plist |
+| OS Version | iPhone OS 4.2.1 (08C148) | /img_tracy_phone-2012-07-15-final.EO1/vol_vol5/logs/AppleSupport/general.log <br /> /img_tracy_phone-2012-07-15-final.EO1/vol_vol5/$CarvedFiles/f0601296.plist |
 | Install Time | 6/6/2012 12:03:28 -0700 | /img_tracy_phone-2012-07-15-final.EO1/vol_vol5/mobile/library/Logs/AppleSupport/general.log |
 | User Email | tracysumtwelve@gmail.com | /img_tracy_phone-2012-07-15-final.EO1/vol_vol5//$CavedFiles/0433624.plist |
 | Phone Number | 1 (703) 340-9661 | /img_tracy_phone-2012-07-15-final.EO1/vol_vol5/logs/lockdownd.log.1 |
 | Serial Number | 86004482y7H | /img_tracy_phone-2012-07-15-final.EO1/vol_vol5/logs/AppleSupport/general.log |
 ICCID | 89014103255195342366 | /img_tracy_phone-2012-07-15-final.EO1/vol_vol5/logs/lockdownd.log |
 IMEI | 012021003735398 | /img_tracy_phone-2012-07-15-final.EO1/vol_vol5/root/Library/Lockdown/ activation_records/wildcard_record.plist |
-MD5 Hash | 34c4888f095dc3241330462923f6fea5 | /root/corpus/tracy.original.md5log.txt |
-SHA256 Hash | 71aed05a86a753dec4ef4033ed7f52d6577ccb534ca0d1e83ffd27683e621607 | /root/corpus//root/corpus/tracy.original.md5log.txt |
+MD5 Hash | Verified: 34c4888f095dc3241330462923f6fea5 | /root/corpus/tracy.original.md5log.txt ![MD5](/Resources/Images/md5.PNG) |
+SHA256 Hash | Verified: 71aed05a86a753dec4ef4033ed7f52d6577ccb534ca0d1e83ffd27683e621607 | /root/corpus//root/corpus/tracy.original.md5log.txt ![SHA256](/Resources/Images/sha256.PNG) |
 
 ---
 
@@ -173,54 +173,18 @@ Tracy does not know about Carry real intentions for the defacement of the museum
 
 ## 7. Plot Timeline
 
-June 19, 2012
-    
-Pat accepts Tracy's proposal. They plan to use aliases and virtual machines for communication.
-
-June 29, 2012
-
-Tracy is looking for opportunities to make money and is checking insurance papers to identify a potential target.
-
-July 2, 2012
-
-Tracy found a target for the robbery plan. A high-worth object with low shipping cost. Meaning it was something small and valuable.
-
-July 3, 2012
-
-Tracy identified the target object for the robbery plan as a rare and valuable stamp. She would collect more information and encourage Pat to look for options to pull off the heist.
-
-July 5, 2012
-
-Carry and Tracy set a meeting for July 6 at 13h00 at Bubba's grill. Carry lets her know that she knows about Tracy's financial struggle.
-
-July 6, 2012
-
-15:49:31 Pat contacted King for the robbery proposal. He also threatens him.
-16:27:50 Carry and Tracy meet
-
-July 9, 2012
-
-14:44:11 Tracy sends her documents of insurance related to the stamp from her personal email to her alias email of coral.
-
-18:18:47 Carry asked Tracy to sneak in a tablet for a "flash mob event" they had spoken about earlier. Carry offers compensation.
-
-July 10, 2012
-
-13:48:40 Tracy accepts Carry's proposal of the “flash mob event” and invites her to the gallery. Carry proposed the meeting for July 11 around 9.
-
-15:24:57 Kings accepted the robbery proposal and sent a list of the required equipment for the heist.
-
-17:06:19 Tracy confirms the meeting with Carry at 9. Tracy agrees to give Carry information regarding shift changes of security in exchange for financial compensation. They share an album and information related
-
-16:37:09 Tracy shares location with pat  2600-2700 24th Rd S, Arlington, VA 22206
-
-July 11, 2012
-
-12:49:08 Carry and Tracy meet at the National Gallery
-
-July 12, 2012
-
-18:03:51 Carry explained Tracy's inquiry about a typographical error with the phrase "it will be gun" instead of "it will be fun"
+|  |  |
+| --- | --- |
+| June 19, 2012 | Pat accepts Tracy's proposal. They plan to use aliases and virtual machines for communication. |
+| June 29, 2012 | Tracy is looking for opportunities to make money and is checking insurance papers to identify a potential target. |
+| July 2, 2012 | Tracy found a target for the robbery plan. A high-worth object with low shipping cost. Meaning it was something small and valuable. |
+| July 3, 2012 | Tracy identified the target object for the robbery plan as a rare and valuable stamp. She would collect more information and encourage Pat to look for options to pull off the heist. |
+| July 5, 2012 | Carry and Tracy set a meeting for July 6 at 13h00 at Bubba's grill. Carry lets her know that she knows about Tracy's financial struggle. |
+| July 6, 2012 | 15:49:31 Pat contacted King for the robbery proposal. He also threatens him. </br> 16:27:50 Carry and Tracy meet |
+| July 9, 2012 | 14:44:11 Tracy sends her documents of insurance related to the stamp from her personal email to her alias email of coral. </br> 18:18:47 Carry asked Tracy to sneak in a tablet for a "flash mob event" they had spoken about earlier. Carry offers compensation. |
+| July 10, 2012 | 13:48:40 Tracy accepts Carry's proposal of the “flash mob event” and invites her to the gallery. Carry proposed the meeting for July 11 around 9. </br> 15:24:57 Kings accepted the robbery proposal and sent a list of the required equipment for the heist. </br> 17:06:19 Tracy confirms the meeting with Carry at 9. Tracy agrees to give Carry information regarding shift changes of security in exchange for financial compensation. They share an album and information related. </br> 16:37:09 Tracy shares location with pat  2600-2700 24th Rd S, Arlington, VA 22206. |
+| July 11, 2012 | 12:49:08 Carry and Tracy meet at the National Gallery |
+| July 12, 2012 | 18:03:51 Carry explained Tracy's inquiry about a typographical error with the phrase "it will be gun" instead of "it will be fun". |
  
 ---
 
