@@ -1,1 +1,0 @@
-![World View](/Resources/Stamp insurance 1.PDF)
