@@ -125,8 +125,7 @@ Communication between Terry and Joe revealed Tracy's financial struggle related 
 
 Motivated by financial and emotional circumstances related to her daughter and ex-husband, she contacts Pat to set up an illegal business. Pat agreed to the proposal **(Appendix A artifact #1)** since he also had been facing financial hardship **(Appendix A artifact #6)**. They made arrangements to use the alias of Coral for Tracy and Perry for Pat. Likewise, they would use Virtual Machines for communications related to this matter. **(Appendix A artifacts #2, 3, 4, 5, 6, 7)**
 
-After looking for a target **(Appendix A artifacts #9, 10, 11)**, Tracy found the stamps. **(Appendix A artifacts #13, 18)**. She emails Pat documents about the stamp insurance. Then, Pat contacted King. He intimidates King into joining the theft **(Appendix A artifact #16)**. King accepted the proposal and asked for specific equipment for the heist **(Appendix A artifact #21)**. Photos of the Stamps were found on the iPhone.
-
+After looking for a target **(Appendix A artifacts #9, 10, 11)**, Tracy found the stamps. **(Appendix A artifacts #13, 18)**. She emails Pat documents about the stamp insurance. Then, Pat contacted King. He intimidates King into joining the theft **(Appendix A artifact #16)**. King accepted the proposal and asked for specific equipment for the heist **(Appendix A artifact #21)**. Photos of the Stamps and were found on the iPhone. Furthermore, Stamp's insurance PDFs in two zip files, one password protected and the other not, were found on the same device.
 **Facts:**
 
 - Tracy and Pat agreed to gain wealth through dishonest ways. **(Appendix A artifacts #1, 6)**
