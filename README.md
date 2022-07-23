@@ -1,6 +1,6 @@
 # Digital-Forencics-Case-Report-National-Gallery-DC
 
-![City View](/Resources/Maps/generalView.PNG)
+![City View](/Resources/Maps/generalView.png)
 
 An Iphone forencics report related to a conspitacy against the National Gallery DC
 
