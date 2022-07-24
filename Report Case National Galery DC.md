@@ -18,7 +18,7 @@
 
 **Appendix B:** WiFi and GPS Location Information
 
->#### Note: Look for the appendixes files in the repository.
+>#### Note: Look at the appendixes folder.
 
 ---
 
