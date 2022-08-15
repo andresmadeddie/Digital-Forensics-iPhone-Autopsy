@@ -1,4 +1,5 @@
-# Case Report  National Gallery DC 
+# National Galery DC Case Report
+ 
 ### Tracy’s iPhone [2012-07-15-National-Gallery]
 
 ## Table of Contents

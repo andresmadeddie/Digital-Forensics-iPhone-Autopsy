@@ -1,4 +1,10 @@
-# Digital-Forencics-Case-Report-National-Gallery-DC
+# Digital Forensics: iPhone Autopsy - National Gallery DC Case Report
+
+Project: [Digital Forensics: iPhone Autopsy - National Gallery DC Case Report](/National%20Galery%20DC%20Case%20Report.md)
+
+![City View](/Resources/Maps/2.png)
+
+## About the Project
 
 iPhone Forensic Investigation associated with a conspiracy against the National Gallery in Washington D.C. 
 
@@ -22,9 +28,6 @@ Tools:
 - Nano
 - Kali Linux
 
-| | |
+|||
 | --- | --- |
 | ![Photos9](/Resources/Images/43393-IMG_0050.JPG) | ![Photos13](/Resources/Images/43401-IMG_0054.JPG) |
-
-![City View](/Resources/Maps/2.png)
----
